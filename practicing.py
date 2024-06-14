@@ -17,7 +17,5 @@ when to clean
 how to clean
 before and after
 room layouts
-test
-test again
-test from mbp
+
 '''
